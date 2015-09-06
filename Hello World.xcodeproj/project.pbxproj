@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE13251D1B9CF4E700C73DC1 /* cat4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DE13251C1B9CF4E700C73DC1 /* cat4.jpg */; settings = {ASSET_TAGS = (); }; };
 		DE19EC6F1B9BB58400FFAABB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE19EC6E1B9BB58400FFAABB /* AppDelegate.swift */; };
 		DE19EC711B9BB58400FFAABB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE19EC701B9BB58400FFAABB /* ViewController.swift */; };
 		DE19EC741B9BB58400FFAABB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE19EC721B9BB58400FFAABB /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DE13251C1B9CF4E700C73DC1 /* cat4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cat4.jpg; sourceTree = "<group>"; };
 		DE19EC6B1B9BB58400FFAABB /* Hello World.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hello World.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE19EC6E1B9BB58400FFAABB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE19EC701B9BB58400FFAABB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 			children = (
 				DE19EC6E1B9BB58400FFAABB /* AppDelegate.swift */,
 				DE19EC701B9BB58400FFAABB /* ViewController.swift */,
+				DE13251C1B9CF4E700C73DC1 /* cat4.jpg */,
 				DE19EC721B9BB58400FFAABB /* Main.storyboard */,
 				DE19EC751B9BB58400FFAABB /* Assets.xcassets */,
 				DE19EC771B9BB58400FFAABB /* LaunchScreen.storyboard */,
@@ -124,6 +127,7 @@
 				DE19EC791B9BB58400FFAABB /* LaunchScreen.storyboard in Resources */,
 				DE19EC761B9BB58400FFAABB /* Assets.xcassets in Resources */,
 				DE19EC741B9BB58400FFAABB /* Main.storyboard in Resources */,
+				DE13251D1B9CF4E700C73DC1 /* cat4.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +287,7 @@
 				DE19EC7F1B9BB58400FFAABB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
